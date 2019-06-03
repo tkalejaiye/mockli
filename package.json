@@ -1,0 +1,14 @@
+{
+  "name": "mockli",
+  "version": "1.0.0",
+  "description": "Command-line tool to generate mock json data and store it in your project directory",
+  "main": "index.js",
+  "bin": {
+	"mockli": "./bin/index.js
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tolu Kalejaiye",
+  "license": "ISC"
+}
